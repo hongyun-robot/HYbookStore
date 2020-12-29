@@ -1,19 +1,23 @@
 # book-store
 
-## Project setup
+## 项目安装(Project setup)
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## 项目运行(Compiles and hot-reloads for development)
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## 项目打包(Compiles and minifies for production)
+
 ```
 npm run build
 ```
 
-### Customize configuration
+## Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
